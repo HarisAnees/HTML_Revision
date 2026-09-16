@@ -262,7 +262,7 @@ The <canvas> element is a blank rectangular area on the screen. By itself, it do
 
 It relies entirely on a JavaScript API (like the Canvas 2D API or WebGL) to draw pixels, render charts, build web games, or manipulate images frame-by-frame.
 
-SEO Basics
+**SEO Basics**
 <title> Tag
 
 Defines the primary headline of the page shown in search engine results and browser tabs.
